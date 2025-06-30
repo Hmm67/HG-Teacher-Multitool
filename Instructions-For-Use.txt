@@ -1,0 +1,38 @@
+Run hgtmain.bat to use
+The password is "ADMIN" (This can be updated in the "Settings" section)
+
+This multitool can be used to mark a roll, view and edit a schedule, add students to a course, add assessments for a course, grade assessments for a course, and calculating the total weighted grade for that student which is displayed in a table from highest to lowest. 
+
+---------------------------------------------------------------------------------------------------------------------------------
+To Use:
+First add students to a course by navigating to the "Edit students" section. (Students --> Edit students --> Add a course)
+Provide the course name (e.g. ENC), and list all students in that course in the format required. 
+You can remove students, remove courses, and add students to a course from this same section.
+
+To add an assessment navigate to the assessments section. (Assessments --> Add Assessment)
+Provide the course name (Must be the same as entered before), the name of the assessment, the weighting, and the marks it is out of.
+
+To grade the assessment go to "Grade Assessment" in the same section. Enter the course name, the assessment, and then the marks each student achieved, inputting "DNP" to skip any student that didn't partake in the task. 
+if any of the information is incorrect or needs to be changed, remove the assessment or grade it again. Marks are only final once you update the grades.
+
+To update the grades go to the "Update Grades" section. Enter the course name and the assessment name that has been marked. This will update the student information with the results. If this information is incorrect, removing the assessment will remove it from the calculation so you can mark it again.
+
+To view a list of students and their grades, navigate back to the "View students" section (Students --> View Students). Enter the course name and a list of students in that course with their total calculated grade will appear in descending order from highest to lowest grade.
+
+To view the individual results for each assessment task, this can be seen in the "Update Grades" section, or navigate to the "Courses" directory in the files, where the results will be shown in a text document.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Additional Features:
+
+Mark Roll: Enter the course name and enter Y or N for whether each student is present. Past rolls can be viewed from the "Settings" section (Settings --> View Previous Rolls)
+
+Schedule: Enter the periods you have for each day and then view them with "View Schedule". Can be updated at anytime.
+
+SEQTA: A shortcut that will open up SEQTA in your default browser so you can quickly check information
+
+Feedback: Submit a feedback form if you encounter any bugs, have any criticisms, or general improvements / Additional features.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Created by Ben FB
