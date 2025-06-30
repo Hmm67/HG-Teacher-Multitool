@@ -1,0 +1,8 @@
+Tuesday, 1, ENC   
+Tuesday, 2, Legal   
+Monday, 1, ENC 
+Monday, 2, Physics 
+Monday, 3, Legal 
+Monday, 4, ENC 
+Monday, 5, Legal 
+Monday, 6, Free 
